@@ -16,7 +16,7 @@ In this notebook we analyse the first naives strategies: constant bidding for 1 
 
 ### Problem 3 & 4: Bidding_Strategies
 
-In this notebook we develop different strategies, ranging from the Linear Strategy to Non-Linear Strategies such as the Square and Exponential bidding. We also create all the necessary plots
+In this notebook we develop different strategies, ranging from the Linear Strategy to Non-Linear Strategies such as the Square ,Exponential bidding and ORTB bidding strategy. We also create all the necessary plots
 
 ### Problem 5: Multi-agent_Two-agents
 

@@ -3,21 +3,21 @@ This is the coursework for the group assignment of COMP0124 Multi-agent AI @UCL 
 
 We have divided the whole work in x different python notebooks.
 
-# Notebooks overview:
+## Notebooks overview:
 
 
-## Problem 2: Basic_Strategies
-
-In this notebook we analyse the first naives strategies: constant bidding for 1 agent, random bidding for 1 agent and random bidding for multiple agents.
-
-## Problem 1 & 3: CTR_Prediction
+### Problem 1 & 3: CTR_Prediction
 
 Here we do all the initial Data Exploration. In the second part of the notebook we code all the parts for the CTR_Prediction: Logistic Regression, Feature selection and Random Forest model
 
-## Problem 3 & 4: Bidding_Strategies
+### Problem 2: Basic_Strategies
+
+In this notebook we analyse the first naives strategies: constant bidding for 1 agent, random bidding for 1 agent and random bidding for multiple agents.
+
+### Problem 3 & 4: Bidding_Strategies
 
 In this notebook we develop different strategies, ranging from the Linear Strategy to Non-Linear Strategies such as the Square and Exponential bidding. We also create all the necessary plots
 
-## Problem 5: Multi-agent_Two-agents
+### Problem 5: Multi-agent_Two-agents
 
 Here we analyse a the a game-theory based system: 2 agents with linear strategies. We analyse the Nash Equilibria of the system.

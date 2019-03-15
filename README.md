@@ -22,6 +22,6 @@ In this notebook we develop different strategies, ranging from the Linear Strate
 
 Here we analyse a the a game-theory based system: 2 agents with linear strategies. We analyse the Nash Equilibria of the system.
 
-### Problem 5: Mixed Strategy
+### Problem 5: Multi-agent_Mixed-Strategy
 
 Here we create a framework for analysis over multiple agents, in this case, 76. We analyse the results after agents make their biddings and find the best strategy.
